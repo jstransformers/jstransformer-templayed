@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var templayed = require('templayed');
+var templayed = require('templayed')
 
-exports.name = 'templayed';
-exports.outputFormat = 'html';
+exports.name = 'templayed'
+exports.outputFormat = 'html'
 
-exports.compile = templayed;
+exports.compile = templayed
