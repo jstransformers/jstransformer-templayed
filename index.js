@@ -1,6 +1,6 @@
 'use strict'
 
-var templayed = require('templayed')
+const templayed = require('templayed')
 
 exports.name = 'templayed'
 exports.outputFormat = 'html'
