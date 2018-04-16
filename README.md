@@ -1,7 +1,5 @@
 # jstransformer-templayed
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-templayed.svg)](https://greenkeeper.io/)
-
 [templayed.js](https://github.com/heldr/node-templayed) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-templayed/master.svg)](https://travis-ci.org/jstransformers/jstransformer-templayed)
