@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-templayed/master.svg)](https://travis-ci.org/jstransformers/jstransformer-templayed)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-templayed/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-templayed)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-templayed/master.svg)](http://david-dm.org/jstransformers/jstransformer-templayed)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-templayed.svg)](https://www.npmjs.org/package/jstransformer-templayed)
 
 ## Installation
